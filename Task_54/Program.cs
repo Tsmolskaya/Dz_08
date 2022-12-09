@@ -57,7 +57,7 @@ void SortingElements(int[,] matrix)
     }
 }
 
-int[,] matrix = NewRndMatrix(4, 4, 1, 9);
+int[,] matrix = NewRndMatrix(5, 4, 2, 7);
 Console.WriteLine("Первоначальный массив:");
 PrintMatrix(matrix);
 Console.WriteLine();
